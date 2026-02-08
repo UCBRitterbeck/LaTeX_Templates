@@ -1,4 +1,4 @@
-# UCBRitterbeck's LaTeX Templates
+# CURitterbeck's LaTeX Templates
 
 ## Important Links
 - [CTAN](https://www.ctan.org/pkg/bibtex)
